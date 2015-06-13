@@ -1,0 +1,12 @@
+/message.assetbundle
+/prompt.assetbundle
+/shared.assetbundle
+/lua/define.lua
+/lua/functions.lua
+/lua/game.lua
+/lua/luaclass.lua
+/lua/MessagePanel.lua
+/lua/network.lua
+/lua/PromptPanel.lua
+/lua/protocal.lua
+/lua/test.lua
